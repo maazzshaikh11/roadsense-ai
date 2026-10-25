@@ -1,0 +1,241 @@
+ID,Severity,Start_Time,Start_Lat,Start_Lng,Distance(mi),Street,City,County,State,Temperature(F),Humidity(%),Visibility(mi),Wind_Speed(mph),Precipitation(in),Weather_Condition,Sunrise_Sunset,Traffic_Signal,Junction,Crossing,Stop,Traffic_Calming,Give_Way,Railway,Roundabout,Turning_Loop
+SYN-0000,2,2022-04-05 23:15:00,40.71558,-74.019,0.2,Main St,New York,X,NY,70.7,89,1.8,8.4,0,Clear,Day,True,True,False,True,False,False,False,False,False
+SYN-0001,2,2022-08-19 08:15:00,34.05864,-118.24195,1.62,Main St,Los Angeles,X,CA,30.4,40,7.3,6.8,0,Rain,Night,True,True,False,False,False,False,False,False,False
+SYN-0002,3,2022-01-24 14:15:00,41.86387,-87.6161,1.07,Main St,Chicago,X,IL,83.5,68,1.7,5.9,0,Cloudy,Day,True,True,False,True,False,False,False,False,False
+SYN-0003,3,2022-02-13 08:15:00,40.72092,-73.98059,0.91,Main St,New York,X,NY,75.9,40,4.3,4.2,0,Clear,Day,True,True,False,False,False,False,False,False,False
+SYN-0004,3,2022-09-08 21:15:00,34.04518,-118.23042,0.65,Main St,Los Angeles,X,CA,72.3,27,3.1,0.6,0,Fog,Night,True,True,False,False,False,False,False,False,False
+SYN-0005,3,2022-11-15 04:15:00,41.86851,-87.63003,0.53,Main St,Chicago,X,IL,43.6,91,5.9,14.9,0.1,Cloudy,Night,False,True,False,True,False,False,False,False,False
+SYN-0006,1,2022-02-05 20:15:00,40.71038,-74.01636,0.32,Main St,New York,X,NY,67.4,28,4.5,11.9,0.1,Cloudy,Night,True,True,False,False,False,False,False,False,False
+SYN-0007,2,2022-03-15 00:15:00,34.06074,-118.25639,1.91,Main St,Los Angeles,X,CA,78.2,53,9.7,15.2,0,Snow,Day,True,False,False,True,False,False,False,False,False
+SYN-0008,2,2022-01-20 10:15:00,41.88158,-87.61885,0.98,Main St,Chicago,X,IL,36.2,66,8.9,16.6,0,Rain,Day,True,True,False,True,False,False,False,False,False
+SYN-0009,4,2022-09-25 04:15:00,40.71928,-73.98736,0.26,Main St,New York,X,NY,56.1,90,2.5,10.6,0.1,Rain,Day,False,False,False,False,False,False,False,False,False
+SYN-0010,2,2022-04-03 10:15:00,34.04752,-118.2493,0.04,Main St,Los Angeles,X,CA,60.5,95,3.0,1.4,0,Rain,Day,True,False,False,True,False,False,False,False,False
+SYN-0011,2,2022-09-05 23:15:00,41.88057,-87.63886,1.87,Main St,Chicago,X,IL,61.4,80,3.2,9.5,0.1,Rain,Day,True,False,False,False,False,False,False,False,False
+SYN-0012,3,2022-11-21 20:15:00,40.70694,-74.00132,0.2,Main St,New York,X,NY,52.1,63,8.2,2.2,0,Rain,Night,True,False,False,True,False,False,False,False,False
+SYN-0013,4,2022-08-26 17:15:00,34.04114,-118.26001,0.2,Main St,Los Angeles,X,CA,65.9,89,8.5,19.4,0,Rain,Night,False,False,False,True,False,False,False,False,False
+SYN-0014,2,2022-01-13 08:15:00,41.89459,-87.6139,1.85,Main St,Chicago,X,IL,73.2,56,4.8,19.1,0.1,Rain,Day,False,True,False,True,False,False,False,False,False
+SYN-0015,3,2022-01-02 18:15:00,40.71317,-73.99831,0.95,Main St,New York,X,NY,80.6,87,2.4,19.2,0,Rain,Day,True,True,False,False,False,False,False,False,False
+SYN-0016,2,2022-10-02 19:15:00,34.0348,-118.23439,0.16,Main St,Los Angeles,X,CA,66.2,92,5.7,18.7,0,Snow,Day,False,False,False,True,False,False,False,False,False
+SYN-0017,2,2022-02-01 14:15:00,41.88687,-87.638,1.24,Main St,Chicago,X,IL,61.0,32,1.7,4.3,0,Rain,Night,True,True,False,False,False,False,False,False,False
+SYN-0018,2,2022-05-20 20:15:00,40.7014,-74.00247,1.06,Main St,New York,X,NY,66.7,90,3.7,13.3,0,Snow,Day,True,True,False,False,False,False,False,False,False
+SYN-0019,2,2022-11-21 08:15:00,34.04127,-118.26157,1.01,Main St,Los Angeles,X,CA,43.8,26,1.8,8.5,0,Clear,Day,False,True,False,False,False,False,False,False,False
+SYN-0020,3,2022-09-01 03:15:00,41.86646,-87.63233,0.15,Main St,Chicago,X,IL,78.6,39,5.9,16.7,0,Fog,Day,True,False,False,False,False,False,False,False,False
+SYN-0021,3,2022-06-07 21:15:00,40.72596,-73.98816,0.5,Main St,New York,X,NY,35.7,91,9.0,8.1,0,Rain,Day,True,False,False,True,False,False,False,False,False
+SYN-0022,3,2022-07-26 21:15:00,34.03717,-118.23302,1.73,Main St,Los Angeles,X,CA,74.6,54,2.4,14.0,0.1,Clear,Night,True,True,False,False,False,False,False,False,False
+SYN-0023,3,2022-04-01 21:15:00,41.87399,-87.61718,0.39,Main St,Chicago,X,IL,48.1,28,9.7,5.6,0.1,Cloudy,Night,True,True,False,False,False,False,False,False,False
+SYN-0024,2,2022-02-20 13:15:00,40.69714,-73.9815,0.69,Main St,New York,X,NY,73.3,75,6.5,10.2,0.1,Cloudy,Day,False,True,False,False,False,False,False,False,False
+SYN-0025,2,2022-12-24 23:15:00,34.03007,-118.23298,1.34,Main St,Los Angeles,X,CA,50.0,28,9.5,18.4,0,Clear,Night,False,False,False,False,False,False,False,False,False
+SYN-0026,2,2022-07-22 12:15:00,41.8761,-87.63817,1.35,Main St,Chicago,X,IL,79.7,92,3.7,11.0,0,Snow,Night,True,False,False,False,False,False,False,False,False
+SYN-0027,2,2022-08-26 23:15:00,40.7086,-74.00231,0.34,Main St,New York,X,NY,34.7,85,7.0,12.4,0,Rain,Night,True,True,False,True,False,False,False,False,False
+SYN-0028,2,2022-02-15 13:15:00,34.03098,-118.26021,1.77,Main St,Los Angeles,X,CA,61.7,69,5.4,4.9,0,Clear,Night,True,True,False,False,False,False,False,False,False
+SYN-0029,3,2022-08-05 14:15:00,41.86201,-87.64003,1.34,Main St,Chicago,X,IL,84.3,60,9.6,17.8,0.1,Cloudy,Night,True,False,False,False,False,False,False,False,False
+SYN-0030,3,2022-09-16 20:15:00,40.70037,-74.01011,0.48,Main St,New York,X,NY,54.2,56,3.1,6.7,0,Rain,Day,True,False,False,True,False,False,False,False,False
+SYN-0031,2,2022-09-15 13:15:00,34.05826,-118.26743,0.12,Main St,Los Angeles,X,CA,75.8,69,9.1,11.7,0,Cloudy,Night,False,True,False,False,False,False,False,False,False
+SYN-0032,3,2022-07-18 23:15:00,41.87194,-87.6344,1.47,Main St,Chicago,X,IL,74.0,48,5.4,5.5,0.1,Clear,Night,False,False,False,True,False,False,False,False,False
+SYN-0033,4,2022-09-01 12:15:00,40.72362,-73.98322,1.18,Main St,New York,X,NY,66.5,30,6.8,2.7,0.1,Rain,Day,False,False,False,False,False,False,False,False,False
+SYN-0034,3,2022-07-09 13:15:00,34.03847,-118.25693,0.5,Main St,Los Angeles,X,CA,34.5,22,7.7,1.0,0,Rain,Day,True,True,False,True,False,False,False,False,False
+SYN-0035,2,2022-03-16 21:15:00,41.86797,-87.64918,0.23,Main St,Chicago,X,IL,82.1,79,7.3,15.3,0,Cloudy,Day,True,False,False,True,False,False,False,False,False
+SYN-0036,2,2022-07-13 22:15:00,40.71315,-73.98284,0.4,Main St,New York,X,NY,62.6,51,1.9,15.4,0,Cloudy,Day,False,False,False,False,False,False,False,False,False
+SYN-0037,1,2022-07-27 15:15:00,34.03276,-118.2441,0.21,Main St,Los Angeles,X,CA,82.8,78,7.4,8.7,0,Cloudy,Night,False,False,False,False,False,False,False,False,False
+SYN-0038,4,2022-05-15 07:15:00,41.87289,-87.64018,1.5,Main St,Chicago,X,IL,61.3,68,4.0,9.9,0,Rain,Night,True,False,False,False,False,False,False,False,False
+SYN-0039,3,2022-05-18 00:15:00,40.70361,-73.98479,1.03,Main St,New York,X,NY,40.5,50,7.5,9.8,0,Fog,Night,False,True,False,True,False,False,False,False,False
+SYN-0040,2,2022-11-19 11:15:00,34.04177,-118.25382,0.95,Main St,Los Angeles,X,CA,59.2,74,10.0,11.0,0,Fog,Night,False,False,False,True,False,False,False,False,False
+SYN-0041,2,2022-09-25 22:15:00,41.86483,-87.6423,0.37,Main St,Chicago,X,IL,41.9,81,3.5,11.8,0,Clear,Day,False,True,False,False,False,False,False,False,False
+SYN-0042,2,2022-05-02 01:15:00,40.69718,-74.01943,1.11,Main St,New York,X,NY,68.4,36,6.7,15.1,0,Clear,Night,False,False,False,False,False,False,False,False,False
+SYN-0043,2,2022-08-04 02:15:00,34.04363,-118.23138,0.8,Main St,Los Angeles,X,CA,34.1,26,2.4,16.2,0,Clear,Day,True,False,False,True,False,False,False,False,False
+SYN-0044,4,2022-05-28 18:15:00,41.89103,-87.63478,1.98,Main St,Chicago,X,IL,46.8,27,6.5,14.8,0,Rain,Night,True,True,False,True,False,False,False,False,False
+SYN-0045,1,2022-08-23 19:15:00,40.69695,-74.017,0.94,Main St,New York,X,NY,31.8,56,7.4,14.1,0.1,Clear,Day,False,True,False,False,False,False,False,False,False
+SYN-0046,2,2022-05-27 04:15:00,34.03459,-118.26101,0.14,Main St,Los Angeles,X,CA,39.1,59,6.4,16.5,0,Fog,Day,False,False,False,False,False,False,False,False,False
+SYN-0047,2,2022-02-20 01:15:00,41.89771,-87.62998,1.78,Main St,Chicago,X,IL,70.4,52,1.2,4.6,0,Snow,Day,True,False,False,False,False,False,False,False,False
+SYN-0048,2,2022-11-27 15:15:00,40.72664,-74.01274,1.94,Main St,New York,X,NY,55.9,72,4.0,13.4,0,Snow,Night,False,False,False,False,False,False,False,False,False
+SYN-0049,2,2022-06-09 10:15:00,34.06254,-118.248,0.23,Main St,Los Angeles,X,CA,72.5,85,8.4,0.0,0.1,Fog,Day,True,False,False,False,False,False,False,False,False
+SYN-0050,2,2022-09-05 09:15:00,41.88502,-87.6196,0.88,Main St,Chicago,X,IL,68.4,35,1.3,12.6,0,Rain,Night,True,False,False,True,False,False,False,False,False
+SYN-0051,2,2022-02-21 04:15:00,40.69899,-73.98634,1.0,Main St,New York,X,NY,69.4,85,7.3,8.3,0.1,Fog,Day,False,True,False,False,False,False,False,False,False
+SYN-0052,3,2022-03-28 02:15:00,34.03762,-118.24602,0.55,Main St,Los Angeles,X,CA,73.5,73,4.1,15.8,0,Clear,Night,False,False,False,True,False,False,False,False,False
+SYN-0053,2,2022-09-13 14:15:00,41.87786,-87.63063,1.87,Main St,Chicago,X,IL,77.8,50,6.1,4.7,0.1,Clear,Night,False,False,False,False,False,False,False,False,False
+SYN-0054,3,2022-03-16 01:15:00,40.72954,-73.9883,0.25,Main St,New York,X,NY,83.1,62,8.8,17.5,0.1,Clear,Night,True,True,False,False,False,False,False,False,False
+SYN-0055,1,2022-05-11 19:15:00,34.06484,-118.2312,1.39,Main St,Los Angeles,X,CA,65.7,62,8.7,17.2,0.1,Snow,Night,True,True,False,True,False,False,False,False,False
+SYN-0056,4,2022-12-03 13:15:00,41.88525,-87.61316,1.96,Main St,Chicago,X,IL,71.8,32,5.0,13.9,0,Clear,Night,True,False,False,False,False,False,False,False,False
+SYN-0057,2,2022-10-22 05:15:00,40.70499,-74.01418,0.34,Main St,New York,X,NY,34.3,68,6.6,4.8,0,Rain,Night,False,False,False,False,False,False,False,False,False
+SYN-0058,2,2022-05-22 17:15:00,34.05667,-118.23404,0.32,Main St,Los Angeles,X,CA,54.3,64,9.9,6.0,0.1,Snow,Night,False,True,False,False,False,False,False,False,False
+SYN-0059,2,2022-06-19 09:15:00,41.89413,-87.64573,1.99,Main St,Chicago,X,IL,46.2,70,3.5,11.3,0,Cloudy,Night,False,True,False,False,False,False,False,False,False
+SYN-0060,2,2022-12-25 21:15:00,40.69876,-74.01239,1.36,Main St,New York,X,NY,37.5,32,9.1,12.9,0,Fog,Day,False,True,False,True,False,False,False,False,False
+SYN-0061,2,2022-04-05 17:15:00,34.06639,-118.25693,1.75,Main St,Los Angeles,X,CA,50.1,84,9.2,16.6,0,Fog,Night,False,True,False,False,False,False,False,False,False
+SYN-0062,4,2022-11-24 21:15:00,41.89852,-87.64437,1.96,Main St,Chicago,X,IL,83.2,91,4.3,15.8,0,Snow,Day,False,False,False,False,False,False,False,False,False
+SYN-0063,4,2022-02-22 07:15:00,40.71338,-73.9871,0.94,Main St,New York,X,NY,64.1,91,4.0,12.2,0,Fog,Night,False,True,False,True,False,False,False,False,False
+SYN-0064,4,2022-02-04 07:15:00,34.03181,-118.26851,1.77,Main St,Los Angeles,X,CA,37.5,78,4.3,19.0,0.1,Cloudy,Day,False,True,False,False,False,False,False,False,False
+SYN-0065,2,2022-12-12 06:15:00,41.88463,-87.61244,0.89,Main St,Chicago,X,IL,82.3,66,1.9,13.7,0,Clear,Night,False,True,False,True,False,False,False,False,False
+SYN-0066,1,2022-04-21 20:15:00,40.72796,-73.98703,1.19,Main St,New York,X,NY,31.2,62,3.2,2.5,0,Clear,Day,True,True,False,False,False,False,False,False,False
+SYN-0067,2,2022-05-28 04:15:00,34.06097,-118.23845,1.98,Main St,Los Angeles,X,CA,59.7,42,2.0,17.3,0,Clear,Night,True,False,False,True,False,False,False,False,False
+SYN-0068,3,2022-09-04 23:15:00,41.86697,-87.6479,0.13,Main St,Chicago,X,IL,54.7,66,5.6,2.2,0,Cloudy,Day,False,False,False,True,False,False,False,False,False
+SYN-0069,2,2022-11-04 15:15:00,40.69243,-74.00084,1.42,Main St,New York,X,NY,54.4,30,3.9,3.0,0,Snow,Night,False,False,False,False,False,False,False,False,False
+SYN-0070,3,2022-02-28 20:15:00,34.05022,-118.25279,1.3,Main St,Los Angeles,X,CA,72.3,47,4.9,17.8,0.1,Snow,Night,False,False,False,True,False,False,False,False,False
+SYN-0071,2,2022-03-22 15:15:00,41.8725,-87.6375,0.13,Main St,Chicago,X,IL,75.7,31,4.9,14.9,0,Rain,Day,False,True,False,False,False,False,False,False,False
+SYN-0072,3,2022-12-02 09:15:00,40.70414,-73.99339,1.2,Main St,New York,X,NY,49.3,93,5.6,3.1,0.1,Rain,Day,False,False,False,True,False,False,False,False,False
+SYN-0073,3,2022-09-25 19:15:00,34.0605,-118.24704,1.23,Main St,Los Angeles,X,CA,65.3,23,6.5,13.2,0,Clear,Day,False,False,False,False,False,False,False,False,False
+SYN-0074,2,2022-11-13 02:15:00,41.87404,-87.64274,0.28,Main St,Chicago,X,IL,64.8,23,1.8,10.6,0.1,Fog,Night,False,True,False,False,False,False,False,False,False
+SYN-0075,4,2022-10-03 01:15:00,40.70247,-74.00702,0.31,Main St,New York,X,NY,71.5,26,7.1,5.4,0.1,Fog,Night,False,False,False,True,False,False,False,False,False
+SYN-0076,2,2022-05-22 21:15:00,34.0602,-118.26545,1.19,Main St,Los Angeles,X,CA,59.0,59,1.4,7.9,0,Clear,Day,False,True,False,True,False,False,False,False,False
+SYN-0077,2,2022-08-24 13:15:00,41.89057,-87.63842,0.35,Main St,Chicago,X,IL,50.9,49,5.5,16.7,0,Clear,Night,True,False,False,True,False,False,False,False,False
+SYN-0078,2,2022-07-19 12:15:00,40.70839,-74.01689,1.42,Main St,New York,X,NY,53.0,34,4.6,19.3,0,Cloudy,Night,False,True,False,False,False,False,False,False,False
+SYN-0079,2,2022-09-03 12:15:00,34.06378,-118.26027,1.74,Main St,Los Angeles,X,CA,71.0,48,4.0,3.4,0,Cloudy,Day,False,False,False,True,False,False,False,False,False
+SYN-0080,2,2022-10-05 20:15:00,41.86945,-87.64414,0.15,Main St,Chicago,X,IL,82.3,83,5.2,11.3,0.1,Cloudy,Night,False,True,False,False,False,False,False,False,False
+SYN-0081,2,2022-05-19 01:15:00,40.69273,-74.00231,0.7,Main St,New York,X,NY,34.1,79,5.1,1.1,0,Clear,Day,False,False,False,True,False,False,False,False,False
+SYN-0082,3,2022-06-20 15:15:00,34.04799,-118.23761,1.0,Main St,Los Angeles,X,CA,82.7,77,1.9,18.0,0,Clear,Day,True,True,False,False,False,False,False,False,False
+SYN-0083,3,2022-06-12 09:15:00,41.89964,-87.62904,0.77,Main St,Chicago,X,IL,72.6,26,8.1,12.9,0,Snow,Day,False,False,False,False,False,False,False,False,False
+SYN-0084,4,2022-03-11 02:15:00,40.71895,-73.99374,1.17,Main St,New York,X,NY,37.8,64,3.8,13.1,0.1,Rain,Day,False,False,False,False,False,False,False,False,False
+SYN-0085,3,2022-12-22 16:15:00,34.06253,-118.2432,0.19,Main St,Los Angeles,X,CA,66.9,85,4.3,7.3,0,Rain,Night,False,True,False,True,False,False,False,False,False
+SYN-0086,2,2022-02-17 17:15:00,41.9,-87.6438,1.67,Main St,Chicago,X,IL,78.6,24,7.0,17.5,0,Cloudy,Night,True,True,False,True,False,False,False,False,False
+SYN-0087,3,2022-03-24 14:15:00,40.72325,-73.98916,0.09,Main St,New York,X,NY,50.0,50,9.7,12.2,0.1,Rain,Day,False,False,False,True,False,False,False,False,False
+SYN-0088,4,2022-08-25 09:15:00,34.04471,-118.23211,1.56,Main St,Los Angeles,X,CA,57.7,73,9.7,16.3,0,Snow,Day,False,False,False,True,False,False,False,False,False
+SYN-0089,2,2022-02-25 05:15:00,41.88846,-87.62936,0.55,Main St,Chicago,X,IL,79.8,38,8.5,1.8,0,Fog,Night,True,False,False,True,False,False,False,False,False
+SYN-0090,2,2022-02-12 07:15:00,40.70586,-74.00504,0.06,Main St,New York,X,NY,81.2,62,8.1,2.8,0,Fog,Day,False,False,False,True,False,False,False,False,False
+SYN-0091,2,2022-03-18 23:15:00,34.06623,-118.26924,1.22,Main St,Los Angeles,X,CA,53.3,56,3.1,2.4,0,Fog,Night,True,True,False,False,False,False,False,False,False
+SYN-0092,2,2022-04-23 04:15:00,41.88387,-87.64934,0.58,Main St,Chicago,X,IL,30.1,65,3.2,8.3,0,Cloudy,Night,True,True,False,False,False,False,False,False,False
+SYN-0093,2,2022-06-09 23:15:00,40.72493,-74.01826,0.03,Main St,New York,X,NY,73.4,64,3.2,13.1,0,Cloudy,Night,True,True,False,False,False,False,False,False,False
+SYN-0094,2,2022-11-15 22:15:00,34.05184,-118.23746,0.96,Main St,Los Angeles,X,CA,40.0,37,1.6,15.5,0.1,Clear,Night,True,True,False,True,False,False,False,False,False
+SYN-0095,2,2022-07-27 17:15:00,41.89543,-87.63738,0.95,Main St,Chicago,X,IL,32.0,44,3.6,17.2,0,Snow,Night,True,False,False,False,False,False,False,False,False
+SYN-0096,3,2022-07-11 05:15:00,40.72558,-73.99027,0.99,Main St,New York,X,NY,57.4,86,3.4,1.7,0.1,Clear,Night,True,False,False,False,False,False,False,False,False
+SYN-0097,2,2022-08-20 22:15:00,34.0341,-118.25688,0.85,Main St,Los Angeles,X,CA,67.9,64,5.0,14.5,0,Cloudy,Night,False,True,False,True,False,False,False,False,False
+SYN-0098,2,2022-12-22 05:15:00,41.88685,-87.63375,1.91,Main St,Chicago,X,IL,37.9,76,1.3,1.3,0,Snow,Night,True,True,False,False,False,False,False,False,False
+SYN-0099,3,2022-10-05 16:15:00,40.72795,-74.00512,0.73,Main St,New York,X,NY,47.3,55,3.2,2.3,0,Fog,Night,True,False,False,False,False,False,False,False,False
+SYN-0100,3,2022-12-16 06:15:00,34.05816,-118.26142,0.25,Main St,Los Angeles,X,CA,76.9,77,2.6,14.3,0,Snow,Night,True,False,False,False,False,False,False,False,False
+SYN-0101,4,2022-11-06 11:15:00,41.89405,-87.62153,1.02,Main St,Chicago,X,IL,36.7,45,8.1,4.7,0.1,Clear,Night,False,False,False,True,False,False,False,False,False
+SYN-0102,2,2022-12-24 15:15:00,40.71448,-74.01655,1.05,Main St,New York,X,NY,72.3,93,1.7,19.4,0,Fog,Night,False,True,False,True,False,False,False,False,False
+SYN-0103,2,2022-01-27 03:15:00,34.06071,-118.26484,1.04,Main St,Los Angeles,X,CA,46.7,40,3.9,14.2,0,Cloudy,Night,True,False,False,True,False,False,False,False,False
+SYN-0104,2,2022-05-20 17:15:00,41.8854,-87.62797,0.19,Main St,Chicago,X,IL,65.3,95,9.5,3.1,0,Cloudy,Day,True,True,False,True,False,False,False,False,False
+SYN-0105,2,2022-04-25 18:15:00,40.72794,-73.98916,0.83,Main St,New York,X,NY,65.1,83,9.0,10.9,0,Fog,Day,False,False,False,False,False,False,False,False,False
+SYN-0106,2,2022-08-15 06:15:00,34.03292,-118.2676,0.68,Main St,Los Angeles,X,CA,37.9,60,7.6,17.2,0.1,Rain,Night,True,False,False,True,False,False,False,False,False
+SYN-0107,2,2022-02-02 09:15:00,41.87866,-87.6393,1.89,Main St,Chicago,X,IL,77.5,73,3.2,17.3,0,Snow,Night,True,True,False,False,False,False,False,False,False
+SYN-0108,3,2022-08-01 02:15:00,40.72984,-74.00133,1.89,Main St,New York,X,NY,57.8,50,2.9,7.1,0,Snow,Night,False,False,False,True,False,False,False,False,False
+SYN-0109,3,2022-12-12 12:15:00,34.06389,-118.25276,0.73,Main St,Los Angeles,X,CA,52.0,92,6.1,7.3,0,Clear,Night,False,False,False,True,False,False,False,False,False
+SYN-0110,2,2022-06-18 11:15:00,41.86515,-87.64613,1.51,Main St,Chicago,X,IL,40.9,85,4.6,0.8,0,Rain,Night,False,False,False,True,False,False,False,False,False
+SYN-0111,2,2022-10-11 05:15:00,40.71425,-73.99938,0.79,Main St,New York,X,NY,63.9,58,6.3,10.1,0.1,Cloudy,Night,False,True,False,False,False,False,False,False,False
+SYN-0112,2,2022-05-26 23:15:00,34.04325,-118.26562,1.74,Main St,Los Angeles,X,CA,64.6,80,3.4,13.1,0,Clear,Night,True,False,False,True,False,False,False,False,False
+SYN-0113,2,2022-12-04 06:15:00,41.89287,-87.64031,0.04,Main St,Chicago,X,IL,47.3,39,4.7,4.1,0.1,Clear,Day,True,False,False,False,False,False,False,False,False
+SYN-0114,2,2022-09-11 17:15:00,40.71102,-74.00745,0.71,Main St,New York,X,NY,72.5,53,6.5,3.8,0,Snow,Night,True,False,False,False,False,False,False,False,False
+SYN-0115,2,2022-08-12 17:15:00,34.0582,-118.24239,1.87,Main St,Los Angeles,X,CA,73.7,55,3.6,11.5,0.1,Fog,Night,True,False,False,True,False,False,False,False,False
+SYN-0116,2,2022-08-21 08:15:00,41.87151,-87.62143,1.49,Main St,Chicago,X,IL,41.8,88,3.4,11.2,0,Rain,Day,True,True,False,True,False,False,False,False,False
+SYN-0117,3,2022-01-04 13:15:00,40.71679,-73.99876,0.66,Main St,New York,X,NY,56.0,37,1.0,11.0,0,Fog,Night,False,True,False,False,False,False,False,False,False
+SYN-0118,4,2022-02-21 18:15:00,34.04285,-118.24416,0.46,Main St,Los Angeles,X,CA,70.6,24,9.2,3.5,0,Clear,Night,False,True,False,False,False,False,False,False,False
+SYN-0119,2,2022-02-11 09:15:00,41.89507,-87.64963,0.91,Main St,Chicago,X,IL,65.3,87,5.4,18.8,0.1,Snow,Day,True,False,False,True,False,False,False,False,False
+SYN-0120,3,2022-01-24 10:15:00,40.71924,-73.99407,1.58,Main St,New York,X,NY,61.2,44,2.6,17.1,0.1,Fog,Night,True,False,False,True,False,False,False,False,False
+SYN-0121,2,2022-04-01 08:15:00,34.03739,-118.26438,0.77,Main St,Los Angeles,X,CA,54.6,54,9.6,6.0,0,Snow,Night,True,True,False,True,False,False,False,False,False
+SYN-0122,3,2022-12-25 09:15:00,41.87862,-87.64361,1.38,Main St,Chicago,X,IL,65.1,57,4.3,4.4,0,Fog,Day,False,False,False,False,False,False,False,False,False
+SYN-0123,3,2022-11-27 06:15:00,40.71808,-73.98349,1.52,Main St,New York,X,NY,67.4,30,5.7,10.6,0,Clear,Day,True,True,False,True,False,False,False,False,False
+SYN-0124,2,2022-11-07 22:15:00,34.03658,-118.23582,1.17,Main St,Los Angeles,X,CA,35.0,85,5.0,1.1,0,Cloudy,Night,False,True,False,False,False,False,False,False,False
+SYN-0125,1,2022-05-27 00:15:00,41.88691,-87.63767,1.49,Main St,Chicago,X,IL,61.8,25,4.8,14.0,0,Clear,Night,True,False,False,False,False,False,False,False,False
+SYN-0126,3,2022-12-21 13:15:00,40.6972,-74.01458,0.75,Main St,New York,X,NY,79.0,77,8.8,18.1,0.1,Clear,Day,False,True,False,True,False,False,False,False,False
+SYN-0127,2,2022-04-27 00:15:00,34.06971,-118.25428,1.51,Main St,Los Angeles,X,CA,83.8,79,7.1,10.9,0.1,Rain,Day,False,False,False,True,False,False,False,False,False
+SYN-0128,3,2022-02-02 21:15:00,41.87103,-87.6125,0.84,Main St,Chicago,X,IL,72.1,22,3.2,1.3,0,Fog,Day,True,True,False,False,False,False,False,False,False
+SYN-0129,3,2022-01-05 16:15:00,40.70756,-73.99841,1.99,Main St,New York,X,NY,42.9,93,3.9,12.0,0,Rain,Night,True,True,False,False,False,False,False,False,False
+SYN-0130,4,2022-12-06 20:15:00,34.04202,-118.26756,1.36,Main St,Los Angeles,X,CA,60.6,26,9.8,18.8,0.1,Cloudy,Night,False,False,False,True,False,False,False,False,False
+SYN-0131,2,2022-04-28 07:15:00,41.872,-87.64264,0.6,Main St,Chicago,X,IL,68.9,79,9.2,11.2,0.1,Cloudy,Day,False,True,False,False,False,False,False,False,False
+SYN-0132,4,2022-06-03 17:15:00,40.69813,-73.99413,1.45,Main St,New York,X,NY,40.5,54,4.4,12.1,0,Clear,Day,True,False,False,True,False,False,False,False,False
+SYN-0133,4,2022-01-07 06:15:00,34.06478,-118.25668,1.92,Main St,Los Angeles,X,CA,36.5,81,9.2,13.9,0,Fog,Day,False,False,False,False,False,False,False,False,False
+SYN-0134,2,2022-06-17 15:15:00,41.87865,-87.62405,0.93,Main St,Chicago,X,IL,74.2,80,7.9,6.4,0,Snow,Night,False,True,False,True,False,False,False,False,False
+SYN-0135,2,2022-10-19 23:15:00,40.71965,-74.01935,0.84,Main St,New York,X,NY,38.4,62,3.1,11.4,0,Fog,Night,False,False,False,False,False,False,False,False,False
+SYN-0136,2,2022-03-24 17:15:00,34.04843,-118.24069,0.98,Main St,Los Angeles,X,CA,80.4,89,9.9,19.1,0,Clear,Day,True,False,False,True,False,False,False,False,False
+SYN-0137,3,2022-01-07 16:15:00,41.8937,-87.64074,0.91,Main St,Chicago,X,IL,33.3,81,6.9,0.3,0.1,Clear,Day,False,False,False,True,False,False,False,False,False
+SYN-0138,2,2022-03-04 03:15:00,40.71009,-73.99209,1.05,Main St,New York,X,NY,43.3,87,3.3,7.1,0.1,Clear,Night,False,False,False,True,False,False,False,False,False
+SYN-0139,3,2022-02-21 20:15:00,34.06961,-118.26097,1.52,Main St,Los Angeles,X,CA,35.1,68,4.4,9.5,0,Rain,Day,False,False,False,False,False,False,False,False,False
+SYN-0140,1,2022-09-02 07:15:00,41.88263,-87.61568,0.42,Main St,Chicago,X,IL,77.7,92,5.3,0.9,0,Snow,Day,True,False,False,True,False,False,False,False,False
+SYN-0141,3,2022-12-27 12:15:00,40.72846,-73.99652,1.86,Main St,New York,X,NY,46.5,92,3.2,16.7,0.1,Cloudy,Night,False,True,False,True,False,False,False,False,False
+SYN-0142,1,2022-07-08 02:15:00,34.05003,-118.23103,0.68,Main St,Los Angeles,X,CA,72.3,70,9.7,6.5,0,Fog,Night,True,False,False,False,False,False,False,False,False
+SYN-0143,3,2022-02-25 19:15:00,41.87727,-87.62281,0.59,Main St,Chicago,X,IL,43.6,29,1.7,3.1,0,Fog,Night,False,True,False,True,False,False,False,False,False
+SYN-0144,2,2022-05-04 04:15:00,40.69021,-74.00767,0.17,Main St,New York,X,NY,53.7,91,6.0,8.2,0,Clear,Night,True,False,False,False,False,False,False,False,False
+SYN-0145,3,2022-12-18 07:15:00,34.03049,-118.25345,1.14,Main St,Los Angeles,X,CA,39.3,68,2.5,5.4,0,Fog,Day,True,True,False,False,False,False,False,False,False
+SYN-0146,3,2022-06-09 07:15:00,41.87104,-87.63801,1.44,Main St,Chicago,X,IL,57.3,45,5.1,2.7,0,Fog,Night,False,False,False,False,False,False,False,False,False
+SYN-0147,3,2022-10-05 09:15:00,40.70339,-73.98738,0.64,Main St,New York,X,NY,82.1,45,5.3,3.6,0.1,Snow,Night,False,True,False,False,False,False,False,False,False
+SYN-0148,2,2022-02-19 06:15:00,34.04504,-118.23734,1.18,Main St,Los Angeles,X,CA,60.0,90,1.2,14.5,0,Fog,Night,True,False,False,False,False,False,False,False,False
+SYN-0149,2,2022-03-23 13:15:00,41.86557,-87.63789,1.58,Main St,Chicago,X,IL,34.1,81,6.2,10.7,0.1,Cloudy,Day,False,True,False,True,False,False,False,False,False
+SYN-0150,2,2022-11-20 01:15:00,40.72076,-73.9937,1.13,Main St,New York,X,NY,65.5,71,9.7,6.6,0.1,Clear,Day,True,False,False,True,False,False,False,False,False
+SYN-0151,2,2022-10-08 14:15:00,34.05043,-118.24925,0.75,Main St,Los Angeles,X,CA,55.5,95,7.2,3.0,0,Fog,Day,False,False,False,True,False,False,False,False,False
+SYN-0152,2,2022-05-11 14:15:00,41.86464,-87.61237,1.57,Main St,Chicago,X,IL,58.7,64,5.3,8.8,0.1,Snow,Day,False,True,False,True,False,False,False,False,False
+SYN-0153,2,2022-03-24 07:15:00,40.6909,-74.00628,1.03,Main St,New York,X,NY,60.4,62,6.0,19.2,0,Fog,Day,True,False,False,False,False,False,False,False,False
+SYN-0154,2,2022-10-14 12:15:00,34.03117,-118.24544,0.01,Main St,Los Angeles,X,CA,41.8,55,7.8,16.2,0,Cloudy,Day,True,False,False,False,False,False,False,False,False
+SYN-0155,3,2022-08-17 20:15:00,41.86788,-87.64544,0.63,Main St,Chicago,X,IL,51.4,70,6.3,7.0,0.1,Cloudy,Day,False,True,False,True,False,False,False,False,False
+SYN-0156,2,2022-06-23 04:15:00,40.70253,-74.01046,1.02,Main St,New York,X,NY,53.0,37,6.2,8.5,0.1,Cloudy,Day,True,False,False,False,False,False,False,False,False
+SYN-0157,2,2022-01-28 11:15:00,34.03561,-118.25742,1.9,Main St,Los Angeles,X,CA,56.7,44,8.3,19.3,0.1,Fog,Night,False,False,False,False,False,False,False,False,False
+SYN-0158,3,2022-04-10 01:15:00,41.86669,-87.62738,0.55,Main St,Chicago,X,IL,59.6,41,8.0,11.3,0.1,Cloudy,Day,True,False,False,False,False,False,False,False,False
+SYN-0159,3,2022-08-18 06:15:00,40.71168,-73.98973,1.98,Main St,New York,X,NY,35.6,51,3.7,20.0,0.1,Snow,Night,True,False,False,True,False,False,False,False,False
+SYN-0160,3,2022-10-23 11:15:00,34.06103,-118.26052,1.72,Main St,Los Angeles,X,CA,63.6,74,2.5,2.8,0,Rain,Day,False,False,False,True,False,False,False,False,False
+SYN-0161,2,2022-05-28 16:15:00,41.87295,-87.62184,1.97,Main St,Chicago,X,IL,67.4,32,2.2,15.0,0.1,Clear,Night,True,True,False,True,False,False,False,False,False
+SYN-0162,2,2022-11-13 15:15:00,40.69585,-74.00712,0.28,Main St,New York,X,NY,64.8,73,4.4,1.5,0,Fog,Night,False,False,False,False,False,False,False,False,False
+SYN-0163,3,2022-12-03 23:15:00,34.04309,-118.2699,1.94,Main St,Los Angeles,X,CA,64.9,65,8.7,15.9,0.1,Rain,Night,True,False,False,False,False,False,False,False,False
+SYN-0164,2,2022-03-19 15:15:00,41.87291,-87.63866,1.58,Main St,Chicago,X,IL,79.2,26,1.4,12.5,0.1,Clear,Day,True,False,False,False,False,False,False,False,False
+SYN-0165,2,2022-12-05 20:15:00,40.69003,-73.98168,0.6,Main St,New York,X,NY,78.1,55,1.8,7.2,0,Snow,Day,True,False,False,False,False,False,False,False,False
+SYN-0166,2,2022-02-23 03:15:00,34.05904,-118.23979,0.0,Main St,Los Angeles,X,CA,56.2,36,6.3,10.4,0.1,Clear,Day,False,True,False,False,False,False,False,False,False
+SYN-0167,2,2022-02-24 03:15:00,41.88776,-87.63089,0.21,Main St,Chicago,X,IL,50.2,58,2.2,15.5,0,Rain,Day,True,True,False,False,False,False,False,False,False
+SYN-0168,3,2022-07-20 21:15:00,40.70405,-74.01148,0.88,Main St,New York,X,NY,41.9,32,2.3,2.5,0.1,Snow,Night,False,True,False,True,False,False,False,False,False
+SYN-0169,2,2022-10-24 19:15:00,34.04108,-118.26663,0.57,Main St,Los Angeles,X,CA,81.8,23,8.6,13.2,0,Rain,Day,False,False,False,True,False,False,False,False,False
+SYN-0170,2,2022-07-04 07:15:00,41.89135,-87.61825,1.0,Main St,Chicago,X,IL,62.7,87,9.0,0.2,0,Snow,Day,False,False,False,False,False,False,False,False,False
+SYN-0171,2,2022-02-01 18:15:00,40.71185,-74.01309,0.14,Main St,New York,X,NY,44.4,25,9.3,19.0,0.1,Cloudy,Night,False,False,False,False,False,False,False,False,False
+SYN-0172,3,2022-05-03 09:15:00,34.0333,-118.24854,0.16,Main St,Los Angeles,X,CA,80.7,39,5.8,7.8,0,Snow,Night,True,True,False,True,False,False,False,False,False
+SYN-0173,2,2022-10-02 09:15:00,41.86345,-87.63262,1.33,Main St,Chicago,X,IL,66.2,42,2.1,14.2,0,Rain,Night,False,False,False,True,False,False,False,False,False
+SYN-0174,3,2022-12-04 00:15:00,40.70487,-73.99001,0.67,Main St,New York,X,NY,53.6,87,1.6,14.2,0,Fog,Night,False,True,False,False,False,False,False,False,False
+SYN-0175,2,2022-02-19 21:15:00,34.06437,-118.26332,1.45,Main St,Los Angeles,X,CA,42.6,85,1.0,17.2,0,Rain,Day,False,False,False,False,False,False,False,False,False
+SYN-0176,4,2022-01-18 22:15:00,41.89681,-87.64284,1.48,Main St,Chicago,X,IL,53.1,61,3.2,18.3,0,Snow,Day,False,True,False,True,False,False,False,False,False
+SYN-0177,4,2022-07-03 14:15:00,40.69717,-73.98783,1.73,Main St,New York,X,NY,72.5,59,3.9,11.1,0,Snow,Day,False,False,False,True,False,False,False,False,False
+SYN-0178,2,2022-04-24 17:15:00,34.04856,-118.24633,1.52,Main St,Los Angeles,X,CA,43.5,20,9.4,0.5,0,Clear,Night,True,False,False,False,False,False,False,False,False
+SYN-0179,2,2022-08-02 04:15:00,41.86416,-87.62881,1.42,Main St,Chicago,X,IL,35.1,49,9.1,10.4,0,Fog,Day,True,True,False,False,False,False,False,False,False
+SYN-0180,2,2022-03-08 09:15:00,40.69299,-73.99729,0.52,Main St,New York,X,NY,47.3,70,7.3,14.7,0,Fog,Night,True,True,False,True,False,False,False,False,False
+SYN-0181,2,2022-02-06 14:15:00,34.03544,-118.23919,0.93,Main St,Los Angeles,X,CA,52.4,88,4.2,15.4,0.1,Snow,Night,False,True,False,True,False,False,False,False,False
+SYN-0182,3,2022-12-20 01:15:00,41.8663,-87.62256,0.43,Main St,Chicago,X,IL,77.1,38,1.8,5.0,0,Fog,Day,False,False,False,True,False,False,False,False,False
+SYN-0183,2,2022-12-18 07:15:00,40.69124,-74.00382,0.19,Main St,New York,X,NY,35.6,37,2.1,1.2,0,Rain,Day,False,False,False,True,False,False,False,False,False
+SYN-0184,3,2022-01-03 06:15:00,34.05329,-118.25965,1.8,Main St,Los Angeles,X,CA,54.4,36,1.8,16.9,0,Clear,Day,False,True,False,True,False,False,False,False,False
+SYN-0185,3,2022-08-01 12:15:00,41.89697,-87.63267,1.37,Main St,Chicago,X,IL,39.5,47,9.2,5.5,0.1,Rain,Day,True,False,False,False,False,False,False,False,False
+SYN-0186,1,2022-05-13 04:15:00,40.70648,-73.99797,0.84,Main St,New York,X,NY,65.3,87,3.2,19.9,0,Fog,Night,False,False,False,False,False,False,False,False,False
+SYN-0187,2,2022-03-01 10:15:00,34.06651,-118.2499,1.19,Main St,Los Angeles,X,CA,31.6,55,1.5,19.8,0,Cloudy,Day,True,True,False,True,False,False,False,False,False
+SYN-0188,3,2022-12-02 07:15:00,41.88627,-87.63934,1.15,Main St,Chicago,X,IL,84.0,69,4.2,16.8,0,Rain,Day,False,False,False,True,False,False,False,False,False
+SYN-0189,2,2022-03-19 06:15:00,40.71814,-74.00593,1.67,Main St,New York,X,NY,74.6,83,5.9,3.5,0,Clear,Day,True,True,False,True,False,False,False,False,False
+SYN-0190,4,2022-04-26 04:15:00,34.05106,-118.26997,0.68,Main St,Los Angeles,X,CA,39.8,61,1.5,3.0,0,Clear,Night,True,False,False,False,False,False,False,False,False
+SYN-0191,2,2022-03-24 13:15:00,41.88344,-87.63654,1.58,Main St,Chicago,X,IL,82.8,60,2.6,19.4,0,Rain,Day,False,False,False,False,False,False,False,False,False
+SYN-0192,4,2022-10-13 18:15:00,40.69509,-73.99085,0.06,Main St,New York,X,NY,63.1,48,6.8,2.1,0.1,Rain,Night,True,True,False,False,False,False,False,False,False
+SYN-0193,3,2022-02-27 22:15:00,34.0693,-118.26328,1.34,Main St,Los Angeles,X,CA,70.1,62,5.0,5.3,0,Clear,Night,False,True,False,True,False,False,False,False,False
+SYN-0194,2,2022-03-14 15:15:00,41.86193,-87.63247,1.76,Main St,Chicago,X,IL,49.3,68,1.9,9.6,0,Rain,Night,True,True,False,False,False,False,False,False,False
+SYN-0195,2,2022-06-06 12:15:00,40.6908,-74.00955,0.32,Main St,New York,X,NY,34.1,31,4.0,19.7,0.1,Clear,Night,True,False,False,True,False,False,False,False,False
+SYN-0196,4,2022-07-23 17:15:00,34.03214,-118.25676,1.44,Main St,Los Angeles,X,CA,70.1,53,6.9,5.9,0,Clear,Night,False,True,False,True,False,False,False,False,False
+SYN-0197,2,2022-11-21 19:15:00,41.87443,-87.6329,0.96,Main St,Chicago,X,IL,35.3,46,2.5,5.8,0,Fog,Day,False,False,False,False,False,False,False,False,False
+SYN-0198,1,2022-09-13 05:15:00,40.70956,-73.99356,0.74,Main St,New York,X,NY,51.0,43,5.0,5.3,0.1,Snow,Day,False,True,False,True,False,False,False,False,False
+SYN-0199,1,2022-06-26 17:15:00,34.06009,-118.2433,0.83,Main St,Los Angeles,X,CA,71.6,49,6.0,16.8,0.1,Cloudy,Night,True,False,False,False,False,False,False,False,False
+SYN-0200,3,2022-09-19 16:15:00,41.86316,-87.61389,1.6,Main St,Chicago,X,IL,67.3,38,2.1,15.1,0,Rain,Day,True,True,False,True,False,False,False,False,False
+SYN-0201,2,2022-11-05 19:15:00,40.70693,-73.98047,0.52,Main St,New York,X,NY,80.1,28,1.8,11.1,0,Snow,Night,True,False,False,True,False,False,False,False,False
+SYN-0202,2,2022-02-04 18:15:00,34.04658,-118.26407,1.56,Main St,Los Angeles,X,CA,73.2,88,8.9,17.6,0,Fog,Night,False,True,False,True,False,False,False,False,False
+SYN-0203,3,2022-12-13 01:15:00,41.87102,-87.64425,0.79,Main St,Chicago,X,IL,78.3,50,1.4,9.5,0,Snow,Day,False,False,False,False,False,False,False,False,False
+SYN-0204,3,2022-02-28 07:15:00,40.70121,-74.00034,0.27,Main St,New York,X,NY,83.6,76,8.0,6.4,0.1,Cloudy,Day,True,False,False,True,False,False,False,False,False
+SYN-0205,2,2022-09-28 11:15:00,34.06654,-118.25371,1.64,Main St,Los Angeles,X,CA,58.3,40,1.6,14.2,0.1,Rain,Day,True,True,False,True,False,False,False,False,False
+SYN-0206,2,2022-06-23 06:15:00,41.89348,-87.64002,0.55,Main St,Chicago,X,IL,75.3,84,4.6,18.5,0,Rain,Night,False,False,False,True,False,False,False,False,False
+SYN-0207,2,2022-06-06 08:15:00,40.72842,-74.00102,1.5,Main St,New York,X,NY,67.9,56,1.2,1.0,0,Rain,Day,True,False,False,False,False,False,False,False,False
+SYN-0208,4,2022-11-01 15:15:00,34.05053,-118.23541,1.82,Main St,Los Angeles,X,CA,65.6,21,3.0,12.2,0,Snow,Night,False,False,False,False,False,False,False,False,False
+SYN-0209,3,2022-10-13 18:15:00,41.87008,-87.63133,0.2,Main St,Chicago,X,IL,58.1,67,6.1,11.9,0,Snow,Day,False,True,False,False,False,False,False,False,False
+SYN-0210,3,2022-05-21 22:15:00,40.72953,-73.99438,1.9,Main St,New York,X,NY,65.8,44,2.3,15.3,0,Cloudy,Night,False,True,False,True,False,False,False,False,False
+SYN-0211,2,2022-07-13 12:15:00,34.05622,-118.2301,1.47,Main St,Los Angeles,X,CA,62.1,93,8.3,6.9,0,Cloudy,Night,False,False,False,True,False,False,False,False,False
+SYN-0212,2,2022-02-16 04:15:00,41.89363,-87.61494,1.48,Main St,Chicago,X,IL,69.9,91,7.9,3.7,0,Clear,Day,False,True,False,False,False,False,False,False,False
+SYN-0213,2,2022-10-10 14:15:00,40.70682,-73.98453,1.7,Main St,New York,X,NY,55.9,94,6.2,12.4,0.1,Rain,Day,False,False,False,False,False,False,False,False,False
+SYN-0214,2,2022-04-11 13:15:00,34.03216,-118.23583,1.97,Main St,Los Angeles,X,CA,79.1,78,2.3,17.2,0,Clear,Night,False,True,False,False,False,False,False,False,False
+SYN-0215,2,2022-03-19 05:15:00,41.88538,-87.64981,0.98,Main St,Chicago,X,IL,72.0,31,2.2,8.7,0.1,Fog,Night,False,False,False,True,False,False,False,False,False
+SYN-0216,2,2022-01-11 16:15:00,40.69151,-74.01202,0.38,Main St,New York,X,NY,67.2,51,3.0,17.5,0,Rain,Day,False,False,False,True,False,False,False,False,False
+SYN-0217,4,2022-08-24 16:15:00,34.03261,-118.26817,1.19,Main St,Los Angeles,X,CA,48.6,37,4.1,18.0,0,Rain,Day,False,True,False,True,False,False,False,False,False
+SYN-0218,2,2022-01-19 16:15:00,41.86897,-87.6106,0.34,Main St,Chicago,X,IL,50.2,24,4.4,12.8,0,Cloudy,Day,True,True,False,True,False,False,False,False,False
+SYN-0219,2,2022-09-09 15:15:00,40.71759,-74.00333,1.4,Main St,New York,X,NY,41.3,21,3.7,13.2,0,Cloudy,Day,False,True,False,True,False,False,False,False,False
+SYN-0220,2,2022-10-07 08:15:00,34.04131,-118.23861,1.66,Main St,Los Angeles,X,CA,83.5,65,7.3,5.9,0,Cloudy,Night,True,False,False,False,False,False,False,False,False
+SYN-0221,1,2022-02-27 18:15:00,41.86938,-87.64949,1.34,Main St,Chicago,X,IL,38.2,31,8.0,1.5,0,Snow,Day,False,False,False,False,False,False,False,False,False
+SYN-0222,2,2022-01-28 09:15:00,40.70857,-74.01601,0.72,Main St,New York,X,NY,67.2,74,7.6,1.9,0,Clear,Day,True,False,False,False,False,False,False,False,False
+SYN-0223,2,2022-12-03 11:15:00,34.06578,-118.2318,1.63,Main St,Los Angeles,X,CA,40.1,71,4.6,9.1,0.1,Fog,Night,True,True,False,True,False,False,False,False,False
+SYN-0224,4,2022-03-04 13:15:00,41.88785,-87.64765,1.82,Main St,Chicago,X,IL,56.5,92,7.1,3.6,0.1,Snow,Day,True,False,False,False,False,False,False,False,False
+SYN-0225,1,2022-05-21 10:15:00,40.69452,-74.00355,0.02,Main St,New York,X,NY,77.8,87,7.9,11.5,0,Snow,Day,False,True,False,False,False,False,False,False,False
+SYN-0226,2,2022-09-20 01:15:00,34.04383,-118.24295,0.02,Main St,Los Angeles,X,CA,81.4,84,8.6,17.0,0,Clear,Night,False,True,False,False,False,False,False,False,False
+SYN-0227,2,2022-11-13 12:15:00,41.89881,-87.64799,1.63,Main St,Chicago,X,IL,34.3,76,8.2,9.0,0.1,Fog,Night,True,False,False,True,False,False,False,False,False
+SYN-0228,2,2022-01-27 02:15:00,40.69411,-74.00351,1.58,Main St,New York,X,NY,83.0,58,9.0,11.2,0.1,Snow,Night,True,True,False,False,False,False,False,False,False
+SYN-0229,2,2022-12-22 11:15:00,34.04328,-118.2393,1.43,Main St,Los Angeles,X,CA,36.3,48,1.0,7.1,0,Cloudy,Night,True,True,False,True,False,False,False,False,False
+SYN-0230,3,2022-07-04 08:15:00,41.8797,-87.61713,1.22,Main St,Chicago,X,IL,40.3,70,2.9,16.5,0,Snow,Day,False,True,False,True,False,False,False,False,False
+SYN-0231,3,2022-09-05 15:15:00,40.72089,-74.00198,0.01,Main St,New York,X,NY,70.5,90,9.4,16.8,0.1,Cloudy,Day,True,True,False,True,False,False,False,False,False
+SYN-0232,3,2022-09-13 13:15:00,34.0455,-118.24598,1.96,Main St,Los Angeles,X,CA,80.4,51,3.5,19.3,0,Fog,Day,True,False,False,False,False,False,False,False,False
+SYN-0233,2,2022-12-18 20:15:00,41.89372,-87.62809,0.43,Main St,Chicago,X,IL,41.5,57,7.2,18.4,0,Rain,Night,True,False,False,False,False,False,False,False,False
+SYN-0234,3,2022-11-24 17:15:00,40.71331,-73.98229,0.57,Main St,New York,X,NY,76.6,21,5.7,0.5,0,Clear,Day,True,False,False,True,False,False,False,False,False
+SYN-0235,2,2022-01-23 09:15:00,34.06934,-118.24266,0.41,Main St,Los Angeles,X,CA,59.8,65,8.3,2.0,0,Cloudy,Night,True,False,False,True,False,False,False,False,False
+SYN-0236,4,2022-11-11 17:15:00,41.89706,-87.6345,0.11,Main St,Chicago,X,IL,70.9,45,6.6,15.6,0.1,Rain,Night,True,True,False,False,False,False,False,False,False
+SYN-0237,1,2022-03-24 16:15:00,40.70795,-73.98066,0.24,Main St,New York,X,NY,32.2,55,6.0,2.6,0,Clear,Night,False,True,False,True,False,False,False,False,False
+SYN-0238,1,2022-11-20 21:15:00,34.03615,-118.25709,0.6,Main St,Los Angeles,X,CA,73.4,90,4.2,15.7,0,Cloudy,Day,True,True,False,True,False,False,False,False,False
+SYN-0239,1,2022-04-07 21:15:00,41.87664,-87.62852,0.66,Main St,Chicago,X,IL,49.8,47,9.6,12.4,0.1,Cloudy,Day,True,False,False,False,False,False,False,False,False
